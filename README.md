@@ -1,16 +1,6 @@
 # chatgpt
+I have created chatgpt application using chatgpt api in flutter and Ihave used provider state managment
+Provider is a popular state management solution for Flutter, which helps manage and share data between widgets efficiently. It's an open-source package that simplifies the process of passing data and managing the state of your Flutter application. Provider is commonly used to implement the "Provider pattern" and can be seen as a replacement for older state management solutions like InheritedWidget.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Video_Link
+https://youtu.be/tZWDEbRdCM0
